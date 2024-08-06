@@ -2,7 +2,7 @@
 const DOMAIN = 'https://musicalspot-server2.azurewebsites.net';
 const API_DOMAIN = `${DOMAIN}/api/v1`;
 
-
+// 딸각
 
 //OAuth2 관련
 export const SNS_SIGN_IN_URL = (type: 'kakao' | 'naver') => `${API_DOMAIN}/auth/oauth2/${type}`;
