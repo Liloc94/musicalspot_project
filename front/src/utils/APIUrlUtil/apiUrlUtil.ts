@@ -1,5 +1,5 @@
 // const DOMAIN = 'http://127.0.0.1:4040'; // 로컬에서 실행하기/
-const DOMAIN = 'https://musicalspot-server-duepc8d8bvbre5ex.koreacentral-01.azurewebsites.net';
+const DOMAIN = 'https://happy-moss-04dcf311e.5.azurestaticapps.net';
 const API_DOMAIN = `${DOMAIN}/api/v1`;
 
 // 딸각
