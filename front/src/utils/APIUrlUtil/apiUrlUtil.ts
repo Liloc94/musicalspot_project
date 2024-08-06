@@ -21,7 +21,7 @@ export const NICKNAME_FIND_URL = () => `${API_DOMAIN}/nickname-find`;
 export const LOGOUT_URL = () => `${API_DOMAIN}/logout`;
 export const REFRESH_TOKEN_URL = () => `${API_DOMAIN}/refresh-token`;
 export const ACCESS_URL = () => `${API_DOMAIN}/access`;
-// todo: 회원탈퇴는 아직 X
+
 export const POST_DELETE_ACCOUNT = () => `${API_DOMAIN}/delete`;
 export const USER_INFO = () => `${API_DOMAIN}/user-info`;
 export const CHANGE_PASSWORD = () => `${API_DOMAIN}/change-password`;
@@ -58,8 +58,8 @@ export const REVIEWS_LIKES_40 = (page :number) => `${API_DOMAIN}/public/reviews/
 export const REVIEWS_VIEWS_40 = (page :number) => `${API_DOMAIN}/public/reviews/views?page=${page}`;
 export const REVIEW_LIKE = (reviewId : string) => `${API_DOMAIN}/private/review-like/${reviewId}`;
 export const TOGGLE_REVIEW_LIKE = (reviewId : string) => `${API_DOMAIN}/private/toggle-review-like/${reviewId}`;
-// todo: 0802 환희님 뮤지컬 연관 리뷰
-export const MUSICAL_REVIEWS = (musicalId: string) => `${API_DOMAIN}/public/musicals/${musicalId}/reviews`;
+
+export const MUSICAL_REVIEWS = (musicalId: string) => `${API_DOMAIN}/public/musical/${musicalId}/reviews`;
 
 export const SOCKET_MAINADDRESS = () => `${DOMAIN}/ws`;
 export const REDIRECT_SIGN_IN = () => `${API_DOMAIN}/auth/sign-in`;

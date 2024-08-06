@@ -9,8 +9,6 @@ import AuthLabel from 'acommons/auth/AuthLabel';
 import Input from 'acommons/auth/AuthInput';
 import AuthButton from 'acommons/auth/AuthButton';
 import AuthDivider from 'acommons/auth/AuthDivider';
-
-
 interface AuthInputComponentProps {
     value: string;
     onChange: (event: React.ChangeEvent<HTMLInputElement>) => void;
