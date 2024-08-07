@@ -17,6 +17,7 @@ export const handleNicknameChange = (
         setNicknameError('닉네임은 공백없이 1~6자 이내의 영문 및 숫자만 가능합니다.');
         setErrorType('error');
         setIsNicknameAvailable(false);
+        setNickname(nickname);
     } else {
         setNickname(nickname);
         setNicknameError('');

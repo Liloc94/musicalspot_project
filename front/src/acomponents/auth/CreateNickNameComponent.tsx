@@ -25,15 +25,10 @@ const CreateNickNameComponent: React.FC = () => {
 
   useEffect(() => {
     console.log("Running checkAuthStatus on mount..." + isAuthenticated);
-    if(isAuthenticated){
-      console.log("홈으로가라")
-      navigateToHome();
-    }
-    
+    if(isAuthenticated) navigateToHome();
   }, [isAuthenticated]);
 
   useEffect(() => {
-    console.log("Hello World");
     authOnHomeButtonClickHandler(
       () => console.log("로그인 사용자"),
       () => setSignInModalOpen(true)
