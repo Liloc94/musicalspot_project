@@ -1,4 +1,4 @@
-<img src="front/src/assets/images/musical-spot-logo.png" width="600" height="250">
+![musical-spot-logo](https://github.com/user-attachments/assets/401c5708-74ea-4629-ab57-54223aafd578)
 ### musicalspot project
 
 ## 개요
