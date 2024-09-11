@@ -1,50 +1,28 @@
-<!-- 
-# MusicalSPot# musicalspot
-# commit test
 
-# Getting Started with Create React App
+# musicalspot project
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+### 개요
+---
+musicalspot은 뮤지컬 정보 포럼으로써, 관람을 희망하는 뮤지컬의 티켓팅사이트로 리다이렉트 할 수 있고 
 
-## Available Scripts
+사용자들간에 각종 뮤지컬의 관한 관람후기들을 공유할 수 있으며,  회원들간의 실시간 통합채팅을 통해 관련하여 
 
-In the project directory, you can run:
+대화할 수 있는 사이트이다.
 
-### `npm start`
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
+### 팀 구성원 및 역할
+---
+1. 이지훈(본인) - __Websocket을 이용하여 웹페이지 로그인 상태인 회원들간의 실시간 통합채팅 구현__
+2. 이환희
+3. 최호석
+4. 전보경
 
-The page will reload if you make edits.\
-You will also see any lint errors in the console.
+### 프로젝트 기간
+##### 2024.07.03 ~ 2024.07.28
+---
+### 배포 주소
+<https://www.naver.com/>
+---
 
-### `npm test`
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
 
-### `npm run build`
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
-
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
-
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
-
-### `npm run eject`
-
-**Note: this is a one-way operation. Once you `eject`, you can’t go back!**
-
-If you aren’t satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
-
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you’re on your own.
-
-You don’t have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn’t feel obligated to use this feature. However we understand that this tool wouldn’t be useful if you couldn’t customize it when you are ready for it.
-
-## Learn More
-
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
-
-To learn React, check out the [React documentation](https://reactjs.org/).
- -->
