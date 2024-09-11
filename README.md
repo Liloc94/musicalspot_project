@@ -1,4 +1,4 @@
-![logo](https://github.com/Liloc94/musicalspot_project/blob/main/front/src/assets/images/musical-spot-logo.png)
+<img src="front/src/assets/images/musical-spot-logo.png" width="600" height="250">
 ### musicalspot project
 
 ## 개요
@@ -18,6 +18,9 @@
 
 ### 이론 학습내용 정리
 [Notion/Websoket](<https://acute-run-1b2.notion.site/WebSocket-8108117d76864123bdadc46ea2871eff?pvs=4>)
+
+### Test Guide
+[Notion/Musical Spot Project](<https://acute-run-1b2.notion.site/Musical-Spot-Project-8b6cdde4864e4184b57ff00e9ca2d025?pvs=4>)
 
 ### 배포 주소
 <https://www.naver.com/>
