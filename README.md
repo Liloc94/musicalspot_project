@@ -1,5 +1,5 @@
-
-## musicalspot project
+![logo](https://github.com/Liloc94/musicalspot_project/blob/main/front/src/assets/images/musical-spot-logo.png)
+### musicalspot project
 
 ## 개요
 > musicalspot은 뮤지컬 정보 포럼으로써, 관람을 희망하는 뮤지컬의 티켓팅사이트로 리다이렉트 할 수 있고 
@@ -8,17 +8,22 @@
 
 ### 팀 구성원 및 역할
 ---
-1. 이지훈(본인) - __Websocket을 이용하여 웹페이지 로그인 상태인 회원들간의 실시간 통합채팅 구현__
+1. __이지훈(본인) - Websocket을 이용하여 웹페이지 로그인 상태인 회원들간의 실시간 통합채팅 구현__
 2. 이환희
 3. 최호석
 4. 전보경
 
-### 프로젝트 기간
-##### 2024.07.03 ~ 2024.07.28
----
+> ### 프로젝트 기간
+> ##### 2024.07.03 ~ 2024.07.25
+
+### 이론 학습내용 정리
+[Notion/Websoket](<https://acute-run-1b2.notion.site/WebSocket-8108117d76864123bdadc46ea2871eff?pvs=4>)
+
 ### 배포 주소
 <https://www.naver.com/>
 ---
+
+
 
 
 
